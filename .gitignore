@@ -1,0 +1,8 @@
+*.pyc
+*.log
+config-*.json
+
+# folder
+venv/
+.idea/
+.vscode/

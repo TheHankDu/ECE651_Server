@@ -1,0 +1,1 @@
+web: python dingziku.py config.json

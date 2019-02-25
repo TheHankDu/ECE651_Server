@@ -1,0 +1,5 @@
+{
+    "log_level": "DEBUG",
+    "database_uri": "mongodb://root:abcd1234@ds123728.mlab.com:23728/dingziku",
+    "database_name": "dingziku"
+}
